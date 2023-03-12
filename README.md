@@ -23,4 +23,4 @@ To use the UIKit-TicTacToe game in your own iOS app, simply copy the necessary f
 
 ## Credits 🙌
 
-The UIKit-MusicPlayer app was created by [Javier Canto](https://github.com/JavierCantoH).
+The UIKit-TicTacToe app was created by [Javier Canto](https://github.com/JavierCantoH).
